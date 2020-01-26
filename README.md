@@ -10,7 +10,7 @@ D3 stands for Data Driver Documents. It's a JavaScript library which is used to 
 
 ## Why does this repository exist
 
-I've created this repository to keep track of my progress on Adam Janes React.js his online-course. Each commit represents a video of his course.
+I've created this repository to keep track of my progress on Adam Janes his online-course. Each commit represents a video of his course.
 
 ## Host local http server
 
