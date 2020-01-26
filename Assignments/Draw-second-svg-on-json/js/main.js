@@ -23,8 +23,8 @@ d3.json("./data/buildings.json").then((data) => {
         .attr("y", 50)
         .attr("width", 30)
         .attr("height", (obj) => {
-            let yPos = obj.height;
-            return yPos;
+            let height = obj.height;
+            return height;
         })
         .attr("fill", "grey");
 }).catch(err => {
