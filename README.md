@@ -2,7 +2,7 @@
 
 ## What is D3.js
 
-D3 stands for Data Driver Documents. It's a JavaScript library which is used to make dynamic, interactive and graphical view of digital data. It can be used to analyse data, present data or even for forecasting it.
+D3 stands for Data Driver Documents. It's a JavaScript library which is used to make dynamic, interactive and graphical view of digital data. It can be used to analyse data, present data or even for forecasting it. It's best practice to use SVGs since PNGs and JPGs lose their image quality when resized.
 
 ## Why does this repository exist
 
@@ -14,7 +14,7 @@ To see the creation of your models, you have to run a http server. This can be e
 
 Instructions:
 
-1) Download Python3 from the orginal site.
+1) Download Python3 from the original site.
 2) Run your systems CLI in your project folder.
 3) Enter the next line to host your http server.
 
