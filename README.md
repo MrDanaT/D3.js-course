@@ -4,6 +4,8 @@
 
 D3 stands for Data Driver Documents. It's a JavaScript library which is used to make dynamic, interactive and graphical view of digital data. It can be used to analyse data, present data or even for forecasting it. It's best practice to use SVGs since PNGs and JPGs lose their image quality when being resized.
 
+> SVG stands for Scalable Vector Graphics. Rather than displaying an image, it describes how the image should appear. That's why it doesn't lose its quality when it's resized.
+
 ## Why does this repository exist
 
 I've created this repository to keep track of my progress on Adam Janes React.js his online-course. Each commit represents a video of his course.
