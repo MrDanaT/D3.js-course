@@ -2,7 +2,7 @@
 
 ## What is D3.js
 
-D3 stands for Data Driver Documents. It's a JavaScript library which is used to make dynamic, interactive and graphical view of digital data. It can be used to analyse data, present data or even for forecasting it. It's best practice to use SVGs since PNGs and JPGs lose their image quality when being resized.
+D3 stands for Data Driver Documents. It's a JavaScript library which is used to make a dynamic, interactive and graphical view of digital data. It can be used to analyse data, present data or even for forecasting it. It's best practice to use SVGs since PNGs and JPGs lose their image quality when being resized.
 
 > SVG stands for Scalable Vector Graphics. Rather than displaying an image, it describes how the image should appear. That's why it doesn't lose its quality when it's resized.
 
